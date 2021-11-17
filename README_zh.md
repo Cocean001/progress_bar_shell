@@ -12,7 +12,7 @@
 
 ![demo_1](demo_gif/demo_1.gif)
 
-![demo_2](README_zh.assets/demo_2.gif)
+![demo_2](demo_gif/demo_2.gif)
 
 ## 实现功能
 
