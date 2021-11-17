@@ -139,15 +139,7 @@ B) 使用顺序（逻辑）为：
 
 bar_start_from -> bar_hold_at -> bar_continue ：
 
-
-
-```mermaid
-graph TD
-bar_start_from --> bar_hold_at
-bar_hold_at --> bar_continue
-bar_continue --> bar_start_from
-
-```
+![exec_logic](exec_logic.png)
 
 4）使用示例
 
