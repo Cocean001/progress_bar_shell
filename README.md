@@ -12,7 +12,7 @@ After seen many progress bars written in different languages such as python and 
 
 ![demo_1](demo_gif/demo_1.gif)
 
-combined with your shell script (customed style):
+Combined with your shell script (customed style):
 
 ![demo_2](demo_gif/demo_2.gif)
 
