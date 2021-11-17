@@ -4,7 +4,7 @@
 
 ### About the script
 
-When writing a one-click installation and deployment script with **shell**, I found that I couldn't grasp the real-time progress of the deployment. I could only guess the status of current progress based on my roughly remained impression of the script. It would be clear to me of how many happy coffee time I still have.
+When writing a one-click installation and deployment script with **shell**, I found difficult to grasp the real-time progress of the deployment. Which means I could only guess the status of current progress based on my roughly remained impression of the script. If I have a controllable progress bar in my script, it would be clear to me of how many happy coffee time I still have.
 
 After seen many progress bars written in different languages such as python and go, I realized that there are very few progress bars written in shell, let alone controllable ones. So the idea of writing a controllable progress bar was born.
 
@@ -42,7 +42,7 @@ The pointer on the left can be customized to matched with other styles, such as:
 
 ![demo_2](demo_gif/demo_2.gif)
 
-PS: Because the pointer is actually a loop, it can be also customized into other styles for traversal.
+PS: The pointer is actually a loop, it can be also customized into other styles for traversal.
 
 The script is relatively simple, with few functions, just use it:)
 
