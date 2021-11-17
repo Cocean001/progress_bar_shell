@@ -17,11 +17,13 @@ After seen many progress bars written in different languages such as python and 
 ### Custom Progress
 
 - Stay the process bar at a desired progress
+  
   For instance, stays at 25%
 
   ![hold_at_25%](demo_gif/hold_at_25%25.gif)
 
 - Start from a preset progress
+  
   For instance, set starts from 30% and holds at 50%: 
 
   ![30%-50%](demo_gif/30%25-50%25.gif)
