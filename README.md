@@ -141,15 +141,7 @@ B) The order of usage (logical) is:
 
 bar_start_from -> bar_hold_at -> bar_continue ：
 
-
-
-```mermaid
-graph TD
-bar_start_from --> bar_hold_at
-bar_hold_at --> bar_continue
-bar_continue --> bar_start_from
-
-```
+![exec_logic](exec_logic.png)
 
 4）Examples
 
