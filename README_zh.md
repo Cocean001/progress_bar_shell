@@ -12,7 +12,7 @@
 
 ![demo_1](demo_gif/demo_1.gif)
 
-脚本风格自定义示例：
+脚本风格自定义示例： 
 
 ![demo_2](demo_gif/demo_2.gif)
 
